@@ -1,5 +1,5 @@
 # tb-slack-reporter
-This package helps you send tensorboard results into your Slack. 
+This package helps you send Pytorch's TensorBoard's results into your Slack. 
 The main dependency is [tbparse](https://pypi.org/project/tbparse/).
 Is not published to Pypi yet, because it is a **work in progress**
 
