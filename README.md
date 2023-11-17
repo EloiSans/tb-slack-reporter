@@ -5,7 +5,7 @@ Is not published to Pypi yet, because it is a **work in progress**
 
 ## Installation
 ```bash
-pip install https://github.com/EloiSans/tb-slack-reporter
+pip install git+https://github.com/EloiSans/tb-slack-reporter
 ```
 
 ## Usage
